@@ -1,20 +1,7 @@
 This project predicts passenger survival on the Titanic using machine learning models such as Logistic Regression and Random Forest.
 It uses the Titanic dataset for analysis and modeling.
-
-📂 Project Structure
-bash
-Copy
-Edit
-titanic-survival-prediction/
-├── src/
-│   └── titanic_model.py         # Main Python script
-├── plots/                       # Output visualizations
-│   ├── survival_rate_by_class.png
-│   ├── survival_rate_by_sex.png
-│   └── feature_importances.png
-├── requirements.txt             # Python dependencies
-└── README.md                    # Project documentation
-📊 Features
+             # Project documentation
+Features
 Data Cleaning: Handling missing values, removing unnecessary columns.
 
 Feature Engineering: Adding Title, FamilySize, and AgeGroup.
@@ -49,5 +36,6 @@ python src/titanic_model.py
 Logistic Regression: Accuracy ~ X.XX, ROC AUC ~ X.XX
 
 Random Forest: Accuracy ~ X.XX, ROC AUC ~ X.XX
+
 
 Visualizations are saved in the plots/ directory.
