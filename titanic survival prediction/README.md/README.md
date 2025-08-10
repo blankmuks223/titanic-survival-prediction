@@ -12,7 +12,7 @@ Modeling: Logistic Regression and Random Forest Classifier.
 
 Visualization: Seaborn and Matplotlib plots showing trends and feature importances.
 
-🚀 How to Run
+How to Run
 Clone the repository:
 
 bash
@@ -32,10 +32,11 @@ bash
 Copy
 Edit
 python src/titanic_model.py
-📈 Results
+Results
 Logistic Regression: Accuracy ~ X.XX, ROC AUC ~ X.XX
 
 Random Forest: Accuracy ~ X.XX, ROC AUC ~ X.XX
 
 
 Visualizations are saved in the plots/ directory.
+
